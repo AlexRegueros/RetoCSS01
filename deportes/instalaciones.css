@@ -2,10 +2,11 @@ table{
     border: 5px outset;
     background-color:rgb(136, 214, 187);
     border-spacing: 0cm;
+
 }
 
 th{
-    border: 1px outset rgb(0, 98, 255);
+    border: 1px outset rgb(59, 133, 251);
     text-align: center;
     background-color:darkslategrey;
     color:rgb(136, 214, 187);
@@ -13,14 +14,14 @@ th{
 }
 
 td{
-    border: 1px outset rgb(0, 98, 255);
+    border: 1px outset rgb(59, 133, 251);
     
 }
 
-tr{
-    border: 1px outset
+#Sombreado{
+    background-color:rgb(115, 180, 157);
 }
 
-#sombreado{
-    background-color: rgb(133, 155, 100) ;
+.text-center{
+    text-align: center;
 }
