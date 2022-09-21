@@ -1,0 +1,25 @@
+table{
+    border: 1px outset;
+    background-color: rgb(171, 226, 181);
+    border-spacing: 0cm;
+}
+
+th{
+    border: 1px outset red;
+    text-align: center;
+    background-color: green;
+    color: white;
+    
+}
+
+td{
+    border: 1px outset;
+    
+}
+
+tr{
+    border: 1px outset
+}
+#sombreado{
+    background-color: rgb(98, 143, 29) ;
+}
